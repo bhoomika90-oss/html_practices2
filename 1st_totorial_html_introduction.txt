@@ -1,0 +1,49 @@
+# Introduction to HTML
+
+This repository contains my first tutorial on HTML.
+
+## What is HTML?
+
+HTML stands for **HyperText Markup Language**.
+It is the standard language used to create web pages.
+
+HTML describes the structure of a webpage using different elements called **tags**.
+
+## Basic HTML Structure
+
+Every HTML document contains the following basic structure:
+
+* `<!DOCTYPE html>` → Defines the document type
+* `<html>` → Root element of the HTML page
+* `<head>` → Contains metadata and title
+* `<title>` → Title of the webpage
+* `<body>` → Contains visible webpage content
+
+## Example Code
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+<title>My First Web Page</title>
+</head>
+<body>
+
+<h1>Hello World</h1>
+<p>This is my first HTML page.</p>
+
+</body>
+</html>
+```
+
+## What I Learned
+
+* Introduction to HTML
+* Basic HTML document structure
+* Head and Body tags
+* Headings and Paragraphs
+
+## Author
+
+Bhoomika NG
+Engineering Student
