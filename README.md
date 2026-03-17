@@ -17,4 +17,4 @@ This project is created to practice HTML fundamentals and improve my web develop
 ## Technologies Used
 - HTML
 
-Created by: Bhoomika
+Created by: Bhoomika"# html_practices2" 
